@@ -1,0 +1,17 @@
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/bin/Debug/net6.0/TrainingDataProcessor
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/bin/Debug/net6.0/TrainingDataProcessor.deps.json
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/bin/Debug/net6.0/TrainingDataProcessor.runtimeconfig.json
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/bin/Debug/net6.0/TrainingDataProcessor.dll
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/bin/Debug/net6.0/TrainingDataProcessor.pdb
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/TrainingDataProcessor.csproj.AssemblyReference.cache
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/TrainingDataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/TrainingDataProcessor.AssemblyInfoInputs.cache
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/TrainingDataProcessor.AssemblyInfo.cs
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/TrainingDataProcessor.csproj.CoreCompileInputs.cache
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/TrainingDataProcessor.dll
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/refint/TrainingDataProcessor.dll
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/TrainingDataProcessor.pdb
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/TrainingDataProcessor.genruntimeconfig.cache
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/ref/TrainingDataProcessor.dll
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/sameernamburi/Projects/TrainingDataProcessor/TrainingDataProcessor/obj/Debug/net6.0/TrainingDataProcessor.csproj.CopyComplete
