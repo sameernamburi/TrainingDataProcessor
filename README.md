@@ -30,7 +30,9 @@ Output files:
 The outputs are stored in a folder titled Outputs.
 
 •	Task1Output.json: Contains the count of how many people completed each training.
+
 •	Task2Output.json: Lists the people who completed specific trainings within the given fiscal year.
+
 •	Task3Output.json: Lists the people whose trainings have expired or will expire soon.
 
 Note: The application follows the specified conditions for processing the training data. For Task 1 and Task 2, when a person has completed the same training multiple times, only their most recent completion is taken into account. For Task 3, a training is considered expired starting the day after its expiration date, ensuring accuracy in determining expired or soon-to-expire trainings.
