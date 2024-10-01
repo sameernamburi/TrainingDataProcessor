@@ -1,6 +1,7 @@
 Training Data Processor
 
 Overview
+
 This is a .NET console application designed to process training data from a JSON file. It performs three tasks based on the given requirements:
 1. List each completed training with a count of how many people have completed that training.
 2. List all people who completed specified trainings in a given fiscal year.
@@ -8,6 +9,7 @@ This is a .NET console application designed to process training data from a JSON
 The input data is provided in JSON format, and the output for each task is also generated in JSON format.
 
 Tasks
+
 1. Task 1: Count of Completed Trainings
 •	The application reads the list and counts how many people have completed each training. If a person completed the same training multiple times, only the most recent completion is considered.
 •	The result is written to Task1Output.json.
@@ -26,6 +28,7 @@ The application expects an input file named trainings.txt in JSON format. This f
 
 Output files:
 The outputs are stored in a folder titled Outputs.
+
 •	Task1Output.json: Contains the count of how many people completed each training.
 •	Task2Output.json: Lists the people who completed specific trainings within the given fiscal year.
 •	Task3Output.json: Lists the people whose trainings have expired or will expire soon.
