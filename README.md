@@ -25,6 +25,7 @@ Input File:
 The application expects an input file named trainings.txt in JSON format. This file should contain a list of people and their respective training completions and expiration dates.
 
 Output files:
+The outputs are stored in a folder titled Outputs.
 •	Task1Output.json: Contains the count of how many people completed each training.
 •	Task2Output.json: Lists the people who completed specific trainings within the given fiscal year.
 •	Task3Output.json: Lists the people whose trainings have expired or will expire soon.
